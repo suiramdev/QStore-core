@@ -1,0 +1,7 @@
+# Build stuff
+node_modules/
+dist/
+.env
+
+# IDEs stuff
+.idea/
